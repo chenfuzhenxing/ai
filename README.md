@@ -1,7 +1,7 @@
 商业开源AI电商生图大模型，AI换装，AI模特训练，AI商拍图，AI场景图，AI商品图，AI服饰改款设计，AI鞋子上脚，AI饰品生成合成
 商务合作联系
-<img width="906" alt="image" src="https://github.com/user-attachments/assets/ee7a4490-c1b5-4242-9d00-1a6864197760">
 
+<img width="906" alt="image" src="https://github.com/user-attachments/assets/ee7a4490-c1b5-4242-9d00-1a6864197760">
 
 **1、摹图是什么？**
 
